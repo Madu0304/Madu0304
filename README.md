@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Madu0304
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Madu0304/Madu0304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💋 Olá, me chamo Maria Eduarda 
+- 📋 Atualmente estou trabalhando no mergulhão, como caixa de supermercado.
+- 📌 Atualmente estou aprendendo relacionado a informática.
+- ✨ Estou procurando colaborar com as aulas, tentando aprender cada dia mais sobre esse ramo de informática, robótica, etc.
+- 📫 Meu sonho sempre foi ser pediatra ou nutricionista, mas requer muito estudo, estoui pensando sobre. Mas minha terceira opção seria Arquiteta, sempre me interessei muito em projetos, ainda mais quando se trata de casas, requer um esforço muito grande também.
+- 😄 Pronouns: Ela/dela
+- 😺 41 99276-0830
